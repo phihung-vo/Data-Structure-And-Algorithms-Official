@@ -38,4 +38,4 @@
     thi”.
     
     ***NOTES: The project was written on 'DEV C++ 5.11' with 'TDM-GCC 4.9.2 32-bit Release'.
-    THANK YOU FOR WATCHING OUR PROJECT
+    THANK YOU FOR WATCHING OUR PROJECT!
