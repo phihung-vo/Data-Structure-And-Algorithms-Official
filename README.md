@@ -12,7 +12,7 @@
     STUDENTS HAVE ONLY 1 RULE IS DOING THE MULTIPLE-CHOICE TEST, LOGIN ACCOUNT FOR STUDENT: username: 11AT01 ; password: 11AT01
 
 4. REQUIREMENTS TO BE DONE IN THE PROJECT:
-  Thi trắc nghiệm : Ta tổ chức các danh sách sau:
+  DOING MULTIPLE-CHOICE TEST, WE SHOULD ORGANIZE TYPES OF LIST AS THE FOLLOWING:
     - Danh sách môn học : mảng con trỏ có tối đa 300 môn , và luôn có sẵn thứ tự theo mã
     môn học. (MAMH (C15), TENMH (C50)).
     - Danh sách Lop : mảng con trỏ có tối đa 500 lớp(MALOP, TENLOP, niên khóa , con trỏ
